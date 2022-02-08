@@ -1,1 +1,3 @@
 dati inseriti da laboratorio
+
+dati inseriti da laboratorio dopo aver effettuato il pull
